@@ -10,6 +10,7 @@ Research data have the 'FAIR' principles. Let's create a complimentary set of pr
 * Yvonne Nobis
 * Stephen Eglen
 * Laurent Gatto
+* Jeroen Bosman
 
 ## Key resources
 
