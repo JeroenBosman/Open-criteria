@@ -14,3 +14,4 @@ Research data have the 'FAIR' principles. Let's create a complimentary set of pr
 ## Key resources
 
 * [FAIR access to Australia's research](https://www.fair-access.net.au/)
+* [Overview of existings sets of principles] (http://tinyurl.com/scholcomm-charters)
